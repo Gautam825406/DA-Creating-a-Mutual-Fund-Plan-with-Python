@@ -90,9 +90,4 @@ The analysis demonstrates that:
 
 ---
 
-## How to Run
-
-Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn# DA-Creating-a-Mutual-Fund-Plan-with-Python
+ 
