@@ -5,6 +5,13 @@ This project analyzes historical stock price data of NIFTY 50 companies using Py
 
 ---
 
+## Colab Notebook
+You can view and run the project directly on Google Colab:
+
+https://colab.research.google.com/drive/1TvUQ44IH_lhIwcHcQqK92xFIMZE1G50_?usp=sharing
+
+---
+
 ## Objectives
 - Evaluate stock performance using return metrics  
 - Measure risk using volatility  
@@ -90,4 +97,9 @@ The analysis demonstrates that:
 
 ---
 
- 
+## How to Run
+
+Install required libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn
